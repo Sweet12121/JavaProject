@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¿ïø
+P
+java:S1611"5Remove the parentheses around the "student" parameter(Ô™ÿßşÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ô™ÿßşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô™ÿßşÿÿÿÿ
+P
+java:S1611"5Remove the parentheses around the "student" parameter(–’ÕØúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–’ÕØúÿÿÿÿ
+P
+java:S1611"5Remove the parentheses around the "student" parameter(›ûúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ûúÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "s" parameter(î¸ÇÅüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î¸ÇÅüÿÿÿÿ
